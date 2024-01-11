@@ -1,2 +1,5 @@
 # Version-Control-and-Introduction-to-Software-Development-Assignment
-1
+Name: Nicholas Dhannie
+Course: Software Development 1
+CRN: CEN 3024C 
+
